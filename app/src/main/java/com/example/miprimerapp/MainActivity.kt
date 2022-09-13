@@ -51,7 +51,7 @@ class MainActivity : AppCompatActivity() {
     private fun EjercicioVarVal(){
         println("Primera Ejercicio")
         val nombre:String = "Pedro"
-        //nombre = "Padri"
+        //nombre = "Pedri"
         var apellido:String = "Lopes"
         apellido = "Lopez"
 
